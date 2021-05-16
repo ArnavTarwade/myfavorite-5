@@ -1,0 +1,63 @@
+body {
+    text-align: center;
+    background: linear-gradient(#3f5efb 0%, #e2495f 50%, #fc466b 100%);
+}
+
+h1 {
+    text-shadow: 2px 2px #f8BBD0;
+    font-size: 20px;
+}
+
+#bio {
+    padding: 20px;
+    font-size: 18px;
+    text-align: center;
+}
+
+p {
+    font-family: cursive;
+}
+
+.links {
+    margin: 10px;
+    float: left;
+    display: inline-block;
+    font-size: 15px;
+    padding: 10px 10px;
+    display: inline;
+}
+
+.links:hover {
+    background-color: beige;
+}
+
+img {
+    height: 300px;
+}
+
+#flower {
+    
+    height: 500px;
+    border-radius: 100%;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+.list1 {
+    background-color: aquamarine;
+    margin-top: 0px;
+    position: fixed;
+    list-style: none;
+    font-family: cursive;
+    top: 5px;
+    cursor: pointer;
+    z-index: 10;
+    width: 100%;
+}
+
+#my inspiration {
+    margin-top: 500px;
+}
